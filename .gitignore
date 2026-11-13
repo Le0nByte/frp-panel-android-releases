@@ -1,0 +1,5 @@
+# artifacts are published as Release assets, never committed
+*.apk
+*.aab
+*.idsig
+dist/
